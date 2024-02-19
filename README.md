@@ -15,9 +15,11 @@ Implemenataion Science             2023
 Research Associate @ Rheumatology, University of Calgary 
 - Big Impact project 1
 - Big Impact project 2
-Research Corrdinator, @ Pediatric Rhuematology, University of Calgary
+
+  Research Corrdinator, @ Pediatric Rhuematology, University of Calgary
   - Big Impact project 1
   - Big Impact project 2
+  
 Research Associate, @ SolAeroMed Inc
   - Big Impact project 1
   - Big Impact project 2
